@@ -1,0 +1,70 @@
+C:\Users\20112\source\repos\Lab\bin\Debug\Lab.exe.config
+C:\Users\20112\source\repos\Lab\bin\Debug\Lab.exe
+C:\Users\20112\source\repos\Lab\bin\Debug\Lab.pdb
+C:\Users\20112\source\repos\Lab\bin\Debug\Lab.xml
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.vbproj.AssemblyReference.cache
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.Resources.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.vbproj.GenerateResource.cache
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.vbproj.CoreCompileInputs.cache
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.exe
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.xml
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.pdb
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.Login.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.admin_page.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.User_HomePage.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.view_patients.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.req_Test.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.staff.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.Utilities.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.Statistics.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.RequestID.resources
+C:\Users\20112\source\repos\Lab\obj\Debug\Lab.Normal_Result.resources
+C:\Users\DELL\Desktop\DB Project\Lab\bin\Debug\Lab.exe.config
+C:\Users\DELL\Desktop\DB Project\Lab\bin\Debug\Lab.exe
+C:\Users\DELL\Desktop\DB Project\Lab\bin\Debug\Lab.pdb
+C:\Users\DELL\Desktop\DB Project\Lab\bin\Debug\Lab.xml
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.admin_page.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Login.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Resources.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Normal_Result.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.RequestID.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.req_Test.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.staff.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Statistics.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.User_HomePage.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Utilities.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.view_patients.resources
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.exe
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.xml
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.pdb
+C:\Users\DELL\Desktop\DB Project\Lab\obj\Debug\Lab.Radiology_Result.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.exe.config
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.exe
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.pdb
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.xml
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.vbproj.AssemblyReference.cache
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.admin_page.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Login.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Resources.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Normal_Result.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Radiology_Result.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.RequestID.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.req_Test.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.staff.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Statistics.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.User_HomePage.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Utilities.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.view_patients.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.vbproj.GenerateResource.cache
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.vbproj.CoreCompileInputs.cache
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.exe
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.xml
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.pdb
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.Insert_Results.resources
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.exe.manifest
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\bin\Debug\Lab.application
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.exe.manifest
+C:\Users\20112\source\repos\DB Project_2\DB Project\Lab\obj\Debug\Lab.application
