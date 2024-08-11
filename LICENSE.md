@@ -25,3 +25,5 @@ Permission is hereby granted, free of charge, to any person or entity obtaining 
 10. **Severability:** If any provision of this License is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
 
 By using the Software, you agree to be bound by the terms and conditions of this License. If you do not agree to these terms, do not use the Software.
+
+![Lab logo](https://github.com/user-attachments/assets/be518450-f038-4c09-b6a8-4a48fb35422c)
