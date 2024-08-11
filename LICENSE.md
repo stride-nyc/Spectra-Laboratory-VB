@@ -6,7 +6,7 @@ Permission is hereby granted, free of charge, to any person or entity obtaining 
 
 1. **Redistribution:** Redistributions of the Software, in source or binary forms, must include the above copyright notice, this list of conditions, and the following disclaimer.
 
-2. **Attribution:** Any use of the Software must provide appropriate credit to the original authors, Mohammed Hany Gabr and Hazem Shereef, including a link to the original repository or website, if applicable.
+**2. Attribution:** Any use of the Software must provide appropriate credit to the original authors, [Mohammed Hany Gabr](https://github.com/mohany203) and [Hazem Shereef](https://github.com/HazemShereef), including a [link](https://github.com/mohany203/Spectra-Laboratory) to the original repository or website, if applicable.
 
 3. **Modifications:** Modifications or derivative works based on the Software must be clearly identified as such and should not be misrepresented as the original Software.
 
