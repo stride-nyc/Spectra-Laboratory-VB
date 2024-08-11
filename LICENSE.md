@@ -9,9 +9,6 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-its associated documentation, the SQL database, and the logo,
-and to deal in the Software without restriction,
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
