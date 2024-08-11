@@ -1,5 +1,5 @@
 # ![Lab logo](https://github.com/user-attachments/assets/be518450-f038-4c09-b6a8-4a48fb35422c)
-**This repository contains the Spectra Lab Management System, integrating SQL Server with a Visual Basic GUI to manage medical lab operations. Developed by a multidisciplinary team, it enhances efficiency and accuracy in patient care through advanced technologies and streamlined processes.**
+**The Spectra Lab Management System, integrates SQL Server with a Visual Basic GUI to manage medical lab operations. Developed by a multidisciplinary team, it enhances efficiency and accuracy in patient care through advanced technologies and streamlined processes.**
 
 # Database Management Information System
 This project aims to design and develop a database management information system for a specific domain. 
