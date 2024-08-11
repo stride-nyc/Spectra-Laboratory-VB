@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 - Mohammed Hany Gabr - Hazem Shereef
+Copyright (c) 2024 | [Mohammed Hany Gabr](https://github.com/mohany203) | [Hazem Shereef](https://github.com/HazemShereef)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and its associated documentation, the SQL database, and the logo,
