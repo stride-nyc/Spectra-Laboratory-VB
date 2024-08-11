@@ -54,7 +54,7 @@ VB.Net: Public sqlcon As New SqlConnection("server=YOUR_SERVER_NAME;database=lab
 ![image](https://github.com/user-attachments/assets/1fd4666c-8f9f-465c-b2c8-2adc2e365b4c)
 
 ### Admin Page
-![image](https://github.com/user-attachments/assets/dafb067b-efa2-40a3-8b97-76320c71d2f1)
+![Admin Page](https://github.com/user-attachments/assets/6ff5af36-b7fe-4f77-9d32-dc8306e4cbe1)
 
 ### Staff Data Display Page
 ![image](https://github.com/user-attachments/assets/ace96f0a-d57e-43b6-95e1-6388481d8e22)
