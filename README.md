@@ -32,9 +32,10 @@ The project will involve:
 * Ensure the correct authentication method (Windows Authentication or SQL Server Authentication) is used.
 
 ### **Example:**
-VB.Net: Public sqlcon As New SqlConnection("server=YOUR_SERVER_NAME;database=lab3;Integrated Security=True")
-
-* _Use code with caution._
+```.Net
+Public sqlcon As New SqlConnection("server=YOUR_SERVER_NAME;database=lab3;Integrated Security=True")
+```
+ _Use code with caution._
 
 * Build and run the application: Compile and run your VB.NET application.
 * Note: Replace YOUR_SERVER_NAME with the actual name of your SQL Server instance.
