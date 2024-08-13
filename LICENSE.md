@@ -2,11 +2,11 @@
 
 **Copyright (c) 2024** | [Mohammed Hany Gabr](https://github.com/mohany203) | [Hazem Shereef](https://github.com/HazemShereef)
 
-Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software, associated documentation, the SQL database, and the logo (collectively referred to as "the Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software, associated documentation, the SQL database, and the logo (collectively referred to as "Spectra Laboratory Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. **Redistribution:** Redistributions of the Software, in source or binary forms, must include the above copyright notice, this list of conditions, and the following disclaimer.
 
-**2. Attribution:** Any use of the Software must provide appropriate credit to the original authors, [Mohammed Hany Gabr](https://github.com/mohany203) and [Hazem Shereef](https://github.com/HazemShereef), including a [link](https://github.com/mohany203/Spectra-Laboratory) to the original repository or website, if applicable.
+2. **Attribution:** Any use of the Software must provide appropriate credit to the original authors, [Mohammed Hany Gabr](https://github.com/mohany203) and [Hazem Shereef](https://github.com/HazemShereef), including a [link](https://github.com/mohany203/Spectra-Laboratory) to the original repository or website, if applicable.
 
 3. **Modifications:** Modifications or derivative works based on the Software must be clearly identified as such and should not be misrepresented as the original Software.
 
